@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPro_Modulo4_ExercicioFilmes.iml" filepath="$PROJECT_DIR$/.idea/JavaPro_Modulo4_ExercicioFilmes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filmescad/filmescad.iml" filepath="$PROJECT_DIR$/filmescad/filmescad.iml" />
+    </modules>
+  </component>
+</project>
